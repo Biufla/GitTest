@@ -1,2 +1,1 @@
-# GitTest
-Git test
+HOW TO LEARN GIT
